@@ -1,0 +1,11 @@
+C:\Users\efeon\source\repos\proje2\proje2\obj\Debug\proje2.csproj.AssemblyReference.cache
+C:\Users\efeon\source\repos\proje2\proje2\obj\Debug\proje2.Properties.Resources.resources
+C:\Users\efeon\source\repos\proje2\proje2\obj\Debug\proje2.csproj.GenerateResource.cache
+C:\Users\efeon\source\repos\proje2\proje2\obj\Debug\proje2.csproj.CoreCompileInputs.cache
+C:\Users\efeon\source\repos\proje2\proje2\bin\Debug\proje2.exe.config
+C:\Users\efeon\source\repos\proje2\proje2\bin\Debug\proje2.exe
+C:\Users\efeon\source\repos\proje2\proje2\bin\Debug\proje2.pdb
+C:\Users\efeon\source\repos\proje2\proje2\obj\Debug\proje2.Form1.resources
+C:\Users\efeon\source\repos\proje2\proje2\obj\Debug\proje2.exe
+C:\Users\efeon\source\repos\proje2\proje2\obj\Debug\proje2.pdb
+C:\Users\efeon\source\repos\proje2\proje2\obj\Debug\proje2.exe.config
